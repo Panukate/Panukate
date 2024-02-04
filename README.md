@@ -1,3 +1,5 @@
+![logo](https://github.com/Panukate/Panukate/blob/main/nature.jpg)
+
 <h1 align="center">Hi 👋, I'm Shaila Kate</h1>
 <h3 align="center">A passionate Data analyst from India</h3>
 
